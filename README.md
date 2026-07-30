@@ -62,13 +62,9 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kaif1707&theme=darkhub&no-frame=true&column=6&margin-w=10" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaif1707&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&radius=8" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kaif1707&theme=github-dark-blue&hide_border=true" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif1707&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="45%" />
+  <img src="https://streak-stats.demolab.com/?user=Kaif1707&theme=github-dark-blue&hide_border=true" width="55%" />
 </p>
