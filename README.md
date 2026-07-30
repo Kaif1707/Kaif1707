@@ -62,16 +62,10 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaif1707&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif1707&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaif1707&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif1707&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaif1707&theme=github-dark-blue&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kaif1707&color=blue&style=flat" alt="Profile Views"/>
+  <img src="https://streak-stats.demolab.com/?user=Kaif1707&theme=github-dark-blue&hide_border=true" width="60%" />
 </p>
