@@ -62,10 +62,13 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaif1707&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif1707&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kaif1707&theme=darkhub&no-frame=true&column=6&margin-w=10" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Kaif1707&theme=github-dark-blue&hide_border=true" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaif1707&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="45%" />
 </p>
